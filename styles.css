@@ -35,6 +35,12 @@ html {
   content: "";
   position: absolute;
   left: -18px;
-  width:32px;
-  height:100px;
+  width: 32px;
+  height: 100px;
+}
+
+.logo{
+  width:200px;
+  position:absolute;
+  top:23px;
 }
